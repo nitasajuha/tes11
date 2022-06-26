@@ -1,8 +1,8 @@
 #!/bin/bash
 
 MY_WATT="120"
-MY_CLOCK="150"
-MY_MEM="700"
+MY_CLOCK="120"
+MY_MEM="500"
 MY_FAN="85"
 
 
